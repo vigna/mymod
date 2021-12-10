@@ -1,3 +1,3 @@
-module github.com/vigna/mymod/v2
+module github.com/vigna/mymod
 
 go 1.17
