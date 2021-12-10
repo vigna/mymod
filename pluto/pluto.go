@@ -8,6 +8,3 @@ func F() {
 	fmt.Println("PLUTO!")
 }
 
-func f() {
-	
-}
